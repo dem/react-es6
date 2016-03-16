@@ -179,5 +179,3 @@ To run the setup , in the command line fire
 <code>gulp</code>
 
 and then access http://localhost:4000
-
-Source code of the entire setup available here:
